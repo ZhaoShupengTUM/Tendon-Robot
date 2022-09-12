@@ -2,7 +2,7 @@
 
  Bachelor program in CBL Lab in Tianjin University  
  The software architecture:  
- robot.h/cpp: 
+ robot.h/cpp:  
     configuration part  
     Jacobian part  
     trajectory generation part  
