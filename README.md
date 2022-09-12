@@ -1,6 +1,6 @@
 # Tendon-Robot
 
- Bachelor program in CBL Lab
+ Bachelor program in CBL Lab in Tianjin University  
  The software architecture:  
  robot.h/cpp: 
     configuration part  
