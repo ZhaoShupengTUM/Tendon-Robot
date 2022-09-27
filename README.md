@@ -1,7 +1,9 @@
 # Tendon-Robot
 
- Bachelor program in CBL Lab in Tianjin University  
- The software architecture:  
+## Introduction
+ Bachelor program in CBL Lab in Tianjin University. I am a member of the group and am responsible for the Joystick design, singlechip programming and part of the windows app programming.
+ 
+## Main Software architecture
  robot.h/cpp:  
     configuration part  
     Jacobian part  
