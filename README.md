@@ -25,6 +25,10 @@
  mscomm1.h/cpp:  
     automatic generated file from MFC lib  
     
+ ## Literature
+ Design of a Teleoperated Rod-driven Continuum Robot (link: https://link.springer.com/chapter/10.1007/978-3-030-27535-8_14)
+    
+    <img src="https://user-images.githubusercontent.com/74742676/180636712-c48e6507-b8fe-4706-8aed-ad7deb601c7e.png" alt="drawing" width="200"/>
    
    ![image](https://user-images.githubusercontent.com/74742676/180636712-c48e6507-b8fe-4706-8aed-ad7deb601c7e.png)
    ![image](https://user-images.githubusercontent.com/74742676/180636745-c31bbaf2-0830-4e51-b030-e8d4eb6a269e.png)
